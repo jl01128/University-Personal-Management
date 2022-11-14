@@ -2,13 +2,6 @@ import java.util.*;
 import java.util.Scanner; 
 import  java.text.DecimalFormat;
 
-/*
-Project 2
-- Jackie Lin
-- Gavin Mason
-- Matthew Dahbar
-*/
-
 class Main{
   
   public static void main(String[] args) {
